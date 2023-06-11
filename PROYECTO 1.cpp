@@ -15,8 +15,6 @@ int pos;
 void MenuAgregar(), MenuEliminar(), Mostrar(), CrearAleatoria(); 
 
 int main(){
-	
-VIRGENCITA DE GUADALUPE
 	int op;
 	printf("-----Reproductor de musica-----");
 	do{
@@ -140,4 +138,3 @@ void Mostrar(){
 		}
 	} while (opm!=3);
 }
-HOLA
