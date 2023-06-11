@@ -20,7 +20,7 @@ int main(){
 	do{
 	printf("Bienvenido al menu principal");
 	printf("Ingrese la opcion que desea realizar");
-	printf("1. Menú para agregar canciones\n2. Menú para eliminar canciones\n3. Menu de reproduccion\n4. Salir del reproductor");
+	printf("1. MenÃº para agregar canciones\n2. MenÃº para eliminar canciones\n3. Menu de reproduccion\n4. Salir del reproductor");
 	scanf("%d", &op);
 	
 	switch(op){
@@ -56,7 +56,7 @@ void MenuAgregar(){
 			scanf("%d",pos);
 			printf("Ingrese el nombre de la cancion")
 			NomCan = get();
-			//crear nodo para agragar, debe de evaluar que exista la posiciòn
+			//crear nodo para agragar, debe de evaluar que exista la posiciÃ²n
 		break; 
 		case 4: printf("Tu playlist se ha actualizado"); break;
 		default: printf("Ingrese una opcion valida"); break;
@@ -75,11 +75,11 @@ void MenuEliminar(){
 	
 	switch(ope){
 		case 1:
-			printf("Se eliminará la primer canción de la playlist",162);
+			printf("Se eliminarÃ¡ la primer canciÃ³n de la playlist",162);
 			//
 		break;
 		case 2:
-			printf("Se eliminará la ultima cancion de la playlist",162);
+			printf("Se eliminarÃ¡ la ultima cancion de la playlist",162);
 			//
 		break;
 		case 3:
@@ -138,3 +138,4 @@ void Mostrar(){
 		}
 	} while (opm!=3);
 }
+HOLA
