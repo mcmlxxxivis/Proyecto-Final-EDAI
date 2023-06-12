@@ -12,7 +12,7 @@ typedef struct nodo nodo;
 
 int pos;
 
-void MenuAgregar(), MenuEliminar(), Mostrar(), CrearAleatoria(); 
+void MenuAgregar(), MenuEliminar(), Mostrar(); 
 
 int main(){
 	int op;
