@@ -1,0 +1,7 @@
+Numero	  Artista	Album	      Cancion
+1	Macroblank - ibis valley - off the dome
+2	Macroblank - ibis valley - absence
+3	Macroblank - ibis valley - featherweight
+4	Macroblank - ibis valley - white lie
+5	Macroblank - ibis valley - golf club drama
+6	Macroblank - ibis valley - burlington arcade

@@ -1,0 +1,4 @@
+1,Macroblank,ibis valley,off the dome,C:\\Users\\chike\\OneDrive - Escuela Nacional Colegio de Ciencias y Humanidades, UNAM\\Universidad\\EDA\Proyecto\\Macroblank - ibis valley\\Macroblank - ibis valley - 01 off the dome.wav
+2,Macroblank,ibis valley,absence,C:\\Users\chike\\OneDrive - Escuela Nacional Colegio de Ciencias y Humanidades, UNAM\\Universidad\\EDA\\Proyecto\Macroblank - ibis valley\\Macroblank - ibis valley - 02 absence.wav
+3,Macroblank,ibis valley,featherweight,C:\\Users\\chike\\OneDrive - Escuela Nacional Colegio de Ciencias y Humanidades, UNAM\\Universidad\\EDA\\Proyecto\\Macroblank - ibis valley\\Macroblank - ibis valley - 03 featherweight.wav
+4,Macroblank,ibis valley,white lie,C:\\Users\\chike\\OneDrive - Escuela Nacional Colegio de Ciencias y Humanidades, UNAM\\Universidad\\EDA\\Proyecto\\Macroblank - ibis valley\\Macroblank - ibis valley - 04 white lie.wav
